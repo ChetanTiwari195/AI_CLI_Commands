@@ -1,0 +1,1 @@
+this is a ai command line tool to give proper commands for shell in any os
